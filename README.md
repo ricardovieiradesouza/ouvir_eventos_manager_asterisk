@@ -1,0 +1,1 @@
+# ouvir_eventos_manager_asterisk
